@@ -1,0 +1,23 @@
+@import './scss/normalize.scss';
+
+body, html{
+    height: 100%;
+}
+.menu{
+    height: 100px;
+    background-color: greenyellow;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+.brand{
+
+}
+.block{
+    height: 2000px;
+}
